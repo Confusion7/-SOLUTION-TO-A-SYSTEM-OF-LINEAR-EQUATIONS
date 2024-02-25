@@ -16,6 +16,7 @@ End the program
 ## Program:
 DEVELOPED BY: MOHAMMED SAAJID S
 REGISTER NO: 212223240093
+DEPT: AIML
 
 ## Output:
 
