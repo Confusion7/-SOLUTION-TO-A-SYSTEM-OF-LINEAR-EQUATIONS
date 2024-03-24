@@ -20,6 +20,7 @@ REGISTER NO: 212223240093
 
 DEPT: AIML
 
+```
 import numpy as np
 
 A = np.array([])
@@ -29,10 +30,14 @@ B = np.array([])
 result = np.linalg.solve(A,B)
 
 print(result)
+```
 
 ## Output:
 
+![mathaiexp1](https://github.com/Confusion7/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/141727149/d614b670-fe2d-4e96-b973-776bfeb34406)
+
 !['OUTPUT'](/)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
